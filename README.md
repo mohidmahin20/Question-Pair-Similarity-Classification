@@ -20,7 +20,7 @@ drive link : https://drive.google.com/drive/folders/1mOAl57gEXvwpYW9T6yv4WI61j4S
 QuestionPairSimilarity/
 │
 ├── assignment.ipynb       
-├── train.csv            
+├── train.csv            #available on given drive link
 └── README.md            
 ```
 
