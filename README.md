@@ -1,5 +1,4 @@
 # Question-Pair-Similarity-Classification
-# Question Pair Similarity Classification - SparkTech Agency
 
 ## Overview
 
