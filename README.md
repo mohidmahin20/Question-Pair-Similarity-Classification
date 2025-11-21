@@ -5,7 +5,7 @@
 This project tackles the AI Developer (Night Shift) technical assignment from SparkTech Agency. The goal is to classify pairs of questions from the Quora dataset as **duplicates** or **not duplicates** (semantically similar or not). The solution includes exploratory data analysis (EDA), text preprocessing, feature extraction, model training using an Artificial Neural Network (ANN), and model evaluation.
 
 ## Dataset
-
+drive link : https://drive.google.com/drive/folders/1mOAl57gEXvwpYW9T6yv4WI61j4SgSuzy?usp=sharing
 * **train.csv**: Contains labeled question pairs.
 
   * `id`: Unique identifier for each question pair
@@ -19,9 +19,9 @@ This project tackles the AI Developer (Night Shift) technical assignment from Sp
 ```
 QuestionPairSimilarity/
 │
-├── assignment.ipynb        # Google Colab notebook with full workflow
-├── train.csv               # Dataset provided by SparkTech
-└── README.md               # This file
+├── assignment.ipynb       
+├── train.csv            
+└── README.md            
 ```
 
 ## Steps Implemented
